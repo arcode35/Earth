@@ -1,0 +1,23 @@
+{
+  "name": "earth",
+  "version": "1.0.2",
+  "description": "Extremely useful bot",
+  "main": "index.js",
+  "scripts": {
+    "test": ".ping"
+  },
+  "author": "Ice#9682",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "google": "^2.1.0",
+    "js-base64": "^2.5.1",
+    "memejs": "^1.0.7",
+    "moment": "^2.24.0",
+    "ms": "^2.1.1",
+    "node-gyp": "^4.0.0",
+    "node-superfetch": "^0.1.9",
+    "rebuild": "^0.1.2"
+  }
+}
