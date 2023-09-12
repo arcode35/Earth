@@ -17,7 +17,7 @@ Earth is a multi-purpose Discord bot designed to enhance your Discord server exp
 
 ### 🎉 Fun
 - `!meme`: Generate a random meme.
-- `!gay`: A fun command (usage not specified).
+- `!gay`: Transform a profile picture into its gay form.
 
 ### 🕵️‍♂️ Information
 - `!serverinfo`: Display server information.
